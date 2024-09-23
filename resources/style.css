@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+}
+
+img {
+    display: block;
+    width: 90vw;
+    height: auto;
+    margin: 0 auto; /* Ensures block-level centering */
+}
+
+h1 {
+    display: block;
+
+}
